@@ -1,8 +1,9 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square)
-![Data Formats](https://img.shields.io/badge/Data-CSV%20%7C%20JSON%20%7C%20XLS%20%7C%20SQL-green?style=flat-square)
+![Data Formats](https://img.shields.io/badge/Data-CSV-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/US-Household-Income-Analysis?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jc-analyst/World_Life_Expectancy?style=flat-square)
+
 
 
 # 🌍 World Life Expectancy Analysis with SQL
